@@ -1,0 +1,775 @@
+{
+    "data": [
+        {
+            "id": "QUST88",
+            "question": "<h2>మోషే మరియు సిప్పోర అన్న చెల్లెలు ?  </h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                " అవును"
+            ]
+        },
+        {
+            "id": "QUST89",
+            "question": "<h2>ఉప్పు స్తంభమూగా మారింది లోతు భార్య ? అవును</h2>",
+            "answer": " అవును",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు ",
+                " అవును"
+            ]
+        },
+        {
+            "id": "QUST90",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\"> దావీదు యోనాతాను చెడ్డ స్నేహితులు ? </span></h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST91",
+            "question": "<h2>సౌలు కుమార్తెను సోలోమోను పెళ్ళి చేసుకున్నాడు ? </h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "అవును ",
+                "కాదు"
+            ]
+        },
+        {
+            "id": "QUST92",
+            "question": "<h2>ఓడను చేయమని దేవుడు ఓడచేసేవాడికి అగ్జ్ఞాపించేను ? </h2>",
+            "answer": "కాదు ",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు ",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST93",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">కావల పిల్లలకు జన్మనిచ్చిన తల్లి రాహేలు ?</span></h2>",
+            "answer": " కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                " కాదు",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST94",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">సంసోనూ తన ఇష్ట ప్రకారముగా పెళ్ళి చేసుకోలేదు ? కాదు </span></h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "అవును ",
+                "కాదు"
+            ]
+        },
+        {
+            "id": "QUST95",
+            "question": "<h2>మొదటి ఆత్మ ఫలము  నేను తప్ప వేరొక దేవుడు నీకు ఉండకూడదు ?  </h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST96",
+            "question": "<h2>చెడ్డ రాజు అహబు ?</h2>",
+            "answer": " అవును",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                " అవును",
+                "కాదు "
+            ]
+        },
+        {
+            "id": "QUST97",
+            "question": "<h2>యెహోషాపాతు ఇశ్రాయేలీయుల రెండు గోత్రాల రాజ్యానికి రాజు ?  </h2>",
+            "answer": "అవును",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు ",
+                "అవును"
+            ]
+        },
+        {
+            "id": "QUST98",
+            "question": "<h2>రాజైన సిద్కియ మికాయను చెంపమీద కొట్టేను ? </h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST99",
+            "question": "<h2>ఒక్క రోజులోనే యోనా తర్షీషు పట్టణములో సువార్త చెప్పెను ? </h2>",
+            "answer": " కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                " కాదు",
+                "అవును ",
+                "పైన ఏవియుకాదూ"
+            ]
+        },
+        {
+            "id": "QUST100",
+            "question": "<h2>నేనును నా యింటివారును యెహోవాను సేవించెదము అని రాజైన యెహోషువ అనెను ? </h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST101",
+            "question": "<h2>బయలు యాజకులు ప్రార్థన చేయగా అగ్ని క్రిందకు దిగి బలిని, కట్టెలను, రాళ్ళను మరియు నీటిని కాల్చివేసింది ? </h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "అవును ",
+                "కాదు"
+            ]
+        },
+        {
+            "id": "QUST102",
+            "question": "<h2>అమిత్తయి కుమారుడైన యెహోషాపాతు యూదా రాజ్యమునకు రాజు ? </h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST103",
+            "question": "<h2>రాజైన దావీదు సమూయేలు చేత అబిషేకించబడేను ? </h2>",
+            "answer": "అవును",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు ",
+                "అవును"
+            ]
+        },
+        {
+            "id": "QUST104",
+            "question": "<h2>ఆత్మీయంగా ప్రజలను బలపరచడానికి ఎజ్రా వచ్చెను ? </h2>",
+            "answer": "అవును",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "అవును",
+                "కాదు "
+            ]
+        },
+        {
+            "id": "QUST105",
+            "question": "<h2>లీయా ఎలీషాకు శిష్యుడు ? </h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "అవును ",
+                "కాదు"
+            ]
+        },
+        {
+            "id": "QUST106",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">సారాను అబ్రహాము నా సహోదరి అని అబద్దముములాడెను ?</span></h2>",
+            "answer": " అవును ",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                " అవును ",
+                "కాదు "
+            ]
+        },
+        {
+            "id": "QUST107",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">ఐగుప్తి దేశంలో మోషే నీటిని ద్రాక్షరసముగా మార్చేను ? </span></h2>",
+            "answer": " కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                " కాదు",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST1",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">కయీను తన తమ్ముడైనా హేబేలు మీదపడి అతనిని చంపెను ?</span></h2>",
+            "answer": "అవును",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "అవును",
+                "కాదు"
+            ]
+        },
+        {
+            "id": "QUST2",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">జంతువులన్నీ జతలు జతలుగా మోషే ఓడ ఎక్కించాడు ?</span></h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST3",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">యాకోబు ఏకైక కుమార్తె దీనా ?</span></h2>",
+            "answer": "అవును",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును"
+            ]
+        },
+        {
+            "id": "QUST4",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">మోషే మరియు ఇశ్రయేలీయులు సముద్రంలో ఆరిన నేలపై నడిచారు ?</span></h2><p></p>",
+            "answer": " అవును      ",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                " అవును      ",
+                "  కాదు"
+            ]
+        },
+        {
+            "id": "QUST5",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">యోనా గ్రంధము పాత నిబంధనలో చివరి పుస్తకము ?</span></h2><p></p>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును"
+            ]
+        },
+        {
+            "id": "QUST6",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">విచిత్రమైన నిలువటంగిని తండ్రి దగ్గరనుంచి పొందుకుంది ఇస్సాకు ? </span></h2>",
+            "answer": "అవును ",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును "
+            ]
+        },
+        {
+            "id": "QUST7",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">వడిసెల రాయితో దావీదును గోల్యాతు చంపాడు ?</span></h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును"
+            ]
+        },
+        {
+            "id": "QUST8",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">బైబిలో అందరికంటే అధిక కాలం జీవించిన వ్యక్తి అబ్రహము ?</span></h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "అవును        ",
+                "కాదు"
+            ]
+        },
+        {
+            "id": "QUST9",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">యోనాను మ్రింగింది ముసలి</span></h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును   "
+            ]
+        },
+        {
+            "id": "QUST10",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">బైబిలో మొత్తం 66 పుస్తకాలు ఉన్నాయి</span></h2>",
+            "answer": "అవును  ",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును  "
+            ]
+        },
+        {
+            "id": "QUST11",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">దానియేలు సింహాల అడవిలో పడవేయపడ్డాడు</span></h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును  "
+            ]
+        },
+        {
+            "id": "QUST12",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">హవ్వ ఆదాము యొక్క ప్రక్కటెముక నుండి సృష్టించపడింది ?</span></h2>",
+            "answer": "అవును",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును"
+            ]
+        },
+        {
+            "id": "QUST13",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">రూతు నయోమి కూతురు ?</span></h2><p></p>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                "అవును"
+            ]
+        },
+        {
+            "id": "QUST14",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">దావీదు ఇశ్రాయేలీయుల మొదటి రాజు ?</span></h2><p></p>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "అవును        ",
+                "కాదు"
+            ]
+        },
+        {
+            "id": "QUST15",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">యెరూషలేము యొక్క మందిరమును నెహెమ్యా కట్టించెను ?</span></h2>",
+            "answer": " కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T09:44:41.610Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "అవును       ",
+                " కాదు"
+            ]
+        }
+    ]
+}

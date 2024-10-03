@@ -1,1 +1,652 @@
-[]
+{
+    "data": [
+        {
+            "id": "QUST45",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">యె _ _ _ _ ణం </span></h2>",
+            "answer": "యెరికో పట్టణం",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST46",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">నీ _ _ _ _ ణం </span></h2>",
+            "answer": "నీనెవె పట్టణం",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST47",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">యో _ _ _ ది </span></h2>",
+            "answer": "యోర్దాను నది",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST48",
+            "question": "<h2>ఏ _ _ _ ట </h2>",
+            "answer": "ఏదెను తోట",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST49",
+            "question": "<h2>క _ _ _ శం </h2>",
+            "answer": "కనాను దేశం",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST50",
+            "question": "<h2>మో _ _ _ _ _ _బు </h2>",
+            "answer": "మోసగాడైన యాకోబు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST51",
+            "question": "<h2>ద్వి _ _ _ _ _ _ _ _ మ </h2>",
+            "answer": "ద్వితీయోపదేశకాండమ",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST52",
+            "question": "<h2>ది _ _ _ _ _ _లు </h2><p></p>",
+            "answer": "దినవృత్తాంతములు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST53",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">వి _ _ _ _ _ లు </span></h2>",
+            "answer": "విలాపవాక్యములు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST54",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">ప _ _ _ _ ము </span></h2>",
+            "answer": "పరమగీతము",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST55",
+            "question": "<h2>ఫి _ _ _లు </h2>",
+            "answer": "ఫిలిప్తియులు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST56",
+            "question": "<h2> అ _ _ _స్త </h2>",
+            "answer": "అర్తహషస్త",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST57",
+            "question": "<h2>అ _ _ _ _ లు </h2>",
+            "answer": "అమలేకియులు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST58",
+            "question": "<h2>బె _ _ _ _ లు </h2>",
+            "answer": "బెన్యామీనీయులు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST59",
+            "question": "<h2> సి _ _ _ _ డ </h2>",
+            "answer": "సినాయికొండ",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST60",
+            "question": "<h2> రూ _ _ _ లు </h2>",
+            "answer": "రూబేనీయులు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST61",
+            "question": "<h2>సే _ _ _తి </h2>",
+            "answer": "సేనాధిపతి",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST62",
+            "question": "<h2>ఐ _ _ _ _ము</h2>",
+            "answer": "ఐగుప్తు దేశము",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST63",
+            "question": "<h2>సిం _ _ _ ను </h2>",
+            "answer": "సింహాల బోను ",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST64",
+            "question": "<h2>కె  _ _ _ గు </h2>",
+            "answer": "కెరీతూ వాగు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST65",
+            "question": "<h2>సా _ _ _ _ _ _ _ లు</h2>",
+            "answer": "సారెపతు విధవరాలు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST66",
+            "question": "<h2>ప్ర _ _ _ _ _షా </h2>",
+            "answer": "ప్రవక్తైన ఎలీషా",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T16:55:37.668Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST31",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">ఎ _ _ _ _ ము</span></h2>",
+            "answer": "ఎర్ర సముద్రము",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST32",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">కొ _ _ _ _ లు </span></h2>",
+            "answer": "[కొరింథీయులు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST33",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">జె _ _ _ లు</span></h2>",
+            "answer": "జెరుబ్బబెలు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST34",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">థె _ _ _ _ _ _ కు </span></h2>",
+            "answer": "థెస్సలొనీకయులకు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST35",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">నె _ _ _ _ రు</span></h2>",
+            "answer": "[నెబుకద్నెజరు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST36",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">పా _ _ _ _ _ శం</span></h2>",
+            "answer": "పారసిక దేశం",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST37",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">ఫో _ _ _ _ ర్య</span></h2>",
+            "answer": "ఫోతిఫరు భార్య",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST38",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">మో _ _ _ శం</span></h2>",
+            "answer": "మోయాబి దేశం",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST39",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">యె _ _ _ ము</span></h2>",
+            "answer": "యెరుషలేము",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST40",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">యొ _ _ _తు</span></h2>",
+            "answer": "యోహోషాపతు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST41",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">రో _ _ _ కు </span></h2>",
+            "answer": "రోమియులకు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST42",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">న్యా _ _ _ _ లు</span></h2>",
+            "answer": "న్యాయాధిపతులు",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST43",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">మ _ _ _ _ర్త</span></h2>",
+            "answer": "మత్తయి సువార్త",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST44",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">సం _ _ _ _ము</span></h2>",
+            "answer": "సంఖ్యాకాండము",
+            "type": {
+                "name": "FILL_THE_WORD",
+                "value": "Fill the Word",
+                "timer": 50
+            },
+            "timer": 50,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:20:13.270Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        }
+    ]
+}

@@ -1,1 +1,652 @@
-[]
+{
+    "data": [
+        {
+            "id": "QUST67",
+            "question": "<h2>బైబిల్లోని పాత నిబంధనలో చివరి పుస్తకం ఏది ? </h2>",
+            "answer": "మాలాకి",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST68",
+            "question": "<h2> ఆదాము హవ్వలు ఏ తోటలో ఉంచబడిరి ?</h2>",
+            "answer": "ఏదేను",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST69",
+            "question": "<h2>దేవుని స్నేహితుడని ఎవరుకి పేరు కలిగేను ? </h2>",
+            "answer": "అబ్రహాము",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST70",
+            "question": "<h2>హగరుకు పుట్టిన కుమారుడు ఎవరు ? </h2>",
+            "answer": "ఇష్మాయేలు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST71",
+            "question": "<h2>ఇశ్రాయేలు జనంగానికి రెండవ నాయకుడు ఎవరు ?</h2>",
+            "answer": "యెహోషువ",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST72",
+            "question": "<h2>నీవు యుర్దానునదికి పోయి ఏడు మరులు మునగమని ఎవరు ఎవరితో అన్నారు ? </h2>",
+            "answer": "ఎలిషా , నయమానుతో",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST73",
+            "question": "<h2>సొలోమోను ఎవరికంటే జ్ఞానవంతుడై ఉండేను ?</h2>",
+            "answer": "తూర్పు మరియు ఐగుప్తియుల దేశస్థూల జ్ఞానముకంటే",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST74",
+            "question": "<h2>మందసములో ఏమి ఉన్నాయి ? </h2>",
+            "answer": "మన్నాగల బంగారు పాత్ర , చిగిరించిన అహరోను చేతికర్ర , నిబంధన పలకలు ",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST75",
+            "question": "<h2>ప్రార్ధన చేయండి</h2>",
+            "answer": " ",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST76",
+            "question": "<h2>సౌలును రాజుగా ఏ యాజకుడు అభిషేకించాడు ? </h2>",
+            "answer": "సమూయేలు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST77",
+            "question": "<h2>శపించబడిన వస్తువులను తీసుకొన్నదెవరు ? </h2>",
+            "answer": "ఆకాను",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST78",
+            "question": "<h2>ఏ రాజు ఆత్మహత్య చేసుకొన్నాడు ? </h2>",
+            "answer": "సౌలు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST79",
+            "question": "<h2> సూర్యుణ్ణి, చంద్రుణ్ణి నిలిపిందెవరు ?</h2>",
+            "answer": "యెహోషువ",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST80",
+            "question": "<h2>నీవు వెళ్ళు చోటికే నేను వచ్చెదను అని చెప్పిందెవరు ?</h2>",
+            "answer": "రూతు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST81",
+            "question": "<h2>పారసీకదేశపు రాజు ఎవరు.? </h2>",
+            "answer": "కోరెషు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST82",
+            "question": "<h2>మస్తకి చెట్టుమీద ఎవరి తల వేలాడింది ?</h2>",
+            "answer": "అబ్షాలోము",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST83",
+            "question": "<h2>ఎక్కడ దావీదు రాజుగా అభిషేకించబడ్డాడ ? </h2>",
+            "answer": "హెబ్రోను",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST84",
+            "question": "<h2>గోడ కట్టుచున్న సమాచారము విని ఎవరు కోపించి యూదులను ఎగతాలి చేసెను   ? </h2>",
+            "answer": "సన్బల్లటు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST85",
+            "question": "<h2>కీర్తనలు మొదటి ఆద్యాయము చెప్పండి ?</h2>",
+            "answer": " ",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST86",
+            "question": "<h2>ఏ వాగు దగ్గర దేవుడు ఏలీయాని పోషించేను ?</h2>",
+            "answer": "కెరీతూ వాగు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST87",
+            "question": "<p>యోబు యొక్క లక్షణాలు ? </p><p></p>",
+            "answer": "యోబు నిమంతుడు, యధార్దవంతుడు, చెడుతనమును విసర్జించినవాడు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:05:50.560Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST16",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">సృష్టిలో మొదట చేయబడినది ఏమిటి ?</span></h2>",
+            "answer": "వెలుగు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST17",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">మరణించకుండా కొనిపోబడిన మొదటి వ్యక్తి ఎవరు ?</span></h2>",
+            "answer": "హనోకు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST18",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">దావీదు యేటి లోయలో నుండి ఎన్ని రాళ్లను ఏరుకున్నాడు</span></h2>",
+            "answer": "5",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST19",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">ఏశావు తండ్రి పేరు ఏమిటి ?</span></h2>",
+            "answer": "ఇస్సాకు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST20",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">గాడిద దవడ ఎముకతో సమ్సోను ఎంతమందిని చంపాడు</span></h2>",
+            "answer": "1000",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST21",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">ఎలీమెలెకు భార్య పేరు ఏమిటి ? </span></h2>",
+            "answer": "నయోమి",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST22",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">దేవుడు హన్నాను జ్ఞాపకము చేసుకొని అనుగ్రహించిన కుమారుని పేరు ఏమిటి ? </span></h2>",
+            "answer": "సముయేలు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST23",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(33, 37, 41);\">యెష్షయి యొక్క కడసారి ఎనిమిదవ కుమారుడు ఎవరు ? </span></h2>",
+            "answer": "దావీదు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST24",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(33, 37, 41);\">ఏ చెట్టు కొమ్మలకు చుక్కుకొని అభ్షలోము ఆకాశానికి భూమికి మధ్య వ్రేలాడెను ? </span></h2>",
+            "answer": "మస్తకి వృక్షము",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST25",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(33, 37, 41);\">సోలోమోను </span><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">ఇశ్రాయేలీయులను ఏలిన కాలమెంత ? </span></h2>",
+            "answer": "40",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST26",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">నయమాను ఏ రోగముచేత బాధపడుచుండేను ?</span></h2>",
+            "answer": "కుష్ఠీ రోగము",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST27",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">దేనిని రద్దు చేయమని ఎస్తెరు రాజు ఎదుట వేడుకొనేను </span></h2>",
+            "answer": "హమను రాయించిన తకిదును",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST28",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">యోబు స్నేహితులు పేర్లు ఏమిటి ?</span></h2>",
+            "answer": "ఎలీఫజు, బిల్దదు, జోఫరు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST29",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">నీవు అనుదినము సేవించుచున్న నీ దేవుడే నిన్ను రక్షించెను అని దానియేలుతో ఎవరన్నారు ?</span></h2>",
+            "answer": "దర్యావేషు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        },
+        {
+            "id": "QUST30",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">ఎవనినిబట్టి ఇంత కీడు వచ్చినదో తెలుసుకొనుటకు ఓడలోని వారు ఏమి చేశారు ?</span></h2>",
+            "answer": "చిట్లు వేశారు",
+            "type": {
+                "name": "QUESTION_AND_ANSWER",
+                "value": "Question and Answer",
+                "timer": 60
+            },
+            "timer": 60,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-02T10:09:26.919Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0
+        }
+    ]
+}
