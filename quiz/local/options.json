@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            "id": "QUST88",
+            "question": "<h2>మోషే మరియు సిప్పోర అన్న చెల్లెలు ?  </h2>",
+            "answer": "కాదు",
+            "type": {
+                "name": "OPTIONS",
+                "value": "Options",
+                "timer": 30
+            },
+            "timer": 30,
+            "createdBy": "rajesh",
+            "creationDate": "2024-10-03T17:16:43.226Z",
+            "modifiedBy": "",
+            "modifiedDate": null,
+            "deletedBy": "",
+            "deletionDate": null,
+            "version": 0,
+            "options": [
+                "కాదు",
+                " అవును"
+            ]
+        }
+    ]
+}

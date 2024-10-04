@@ -1,0 +1,44 @@
+{
+    "data": [
+    {
+        "id": "0024",
+        "name": "G. Dinakaran Babu",
+        "class": "6th",
+        "phoneNum": "",
+        "createdBy": "rajesh",
+        "creationDate": "2024-10-01T09:08:52.676Z",
+        "modifiedBy": "",
+        "modifiedDate": null,
+        "deletedBy": "",
+        "deletionDate": null,
+        "version": 0
+    },
+    {
+        "id": "0023",
+        "name": "G. Lucky",
+        "class": "10th",
+        "phoneNum": "",
+        "createdBy": "rajesh",
+        "creationDate": "2024-10-01T09:08:32.676Z",
+        "modifiedBy": "",
+        "modifiedDate": null,
+        "deletedBy": "",
+        "deletionDate": null,
+        "version": 0
+    },
+    {
+        "id": "0022",
+        "name": "M. Goutham Raj",
+        "class": "5th",
+        "phoneNum": "",
+        "createdBy": "rajesh",
+        "creationDate": "2024-10-01T09:08:14.816Z",
+        "modifiedBy": "",
+        "modifiedDate": null,
+        "deletedBy": "",
+        "deletionDate": null,
+        "version": 0
+    }
+   
+]
+}
