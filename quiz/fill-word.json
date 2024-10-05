@@ -471,7 +471,7 @@
         {
             "id": "QUST35",
             "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">నె _ _ _ _ రు</span></h2>",
-            "answer": "[నెబుకద్నెజరు",
+            "answer": "నెబుకద్నెజరు",
             "type": {
                 "name": "FILL_THE_WORD",
                 "value": "Fill the Word",
