@@ -134,7 +134,7 @@
         },
         {
             "id": "QUST94",
-            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">సంసోనూ తన ఇష్ట ప్రకారముగా పెళ్ళి చేసుకోలేదు ? కాదు </span></h2>",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">సంసోనూ తన ఇష్ట ప్రకారముగా పెళ్ళి చేసుకోలేదు ?</span></h2>",
             "answer": "కాదు",
             "type": {
                 "name": "OPTIONS",
