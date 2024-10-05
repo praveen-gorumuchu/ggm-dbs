@@ -380,7 +380,7 @@
         },
         {
             "id": "QUST16",
-            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">సృష్టిలో మొదట చేయబడినది ఏమిటి ?</span></h2>",
+            "question": "<h2><span style=\"background-color: rgb(255, 255, 255); color: rgb(41, 41, 41);\">సృష్టి యొక్క మొదటి రోజున చేయబడినది ఏమిటి ?</span></h2>",
             "answer": "వెలుగు",
             "type": {
                 "name": "QUESTION_AND_ANSWER",
