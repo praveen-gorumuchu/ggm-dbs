@@ -92,8 +92,8 @@
         },
         {
             "id": "QUST50",
-            "question": "<h2>మో _ _ _ _ _ _బు </h2>",
-            "answer": "మోసగాడైన యాకోబు",
+            "question": "<h2> ఆ _ _ _ _ ము </h2>",
+            "answer": "ఆదికాండము",
             "type": {
                 "name": "FILL_THE_WORD",
                 "value": "Fill the Word",
@@ -362,8 +362,8 @@
         },
         {
             "id": "QUST65",
-            "question": "<h2>సా _ _ _ _ _ _ _ లు</h2>",
-            "answer": "సారెపతు విధవరాలు",
+            "question": "<h2>మె _ _ _ _ యా</h2>",
+            "answer": "మెసొపొటేమియా ",
             "type": {
                 "name": "FILL_THE_WORD",
                 "value": "Fill the Word",
@@ -380,8 +380,8 @@
         },
         {
             "id": "QUST66",
-            "question": "<h2>ప్ర _ _ _ _ _షా </h2>",
-            "answer": "ప్రవక్తైన ఎలీషా",
+            "question": "<h2>ఎ _ _ _ రు </h2>",
+            "answer": "ఎబినేజరు",
             "type": {
                 "name": "FILL_THE_WORD",
                 "value": "Fill the Word",
