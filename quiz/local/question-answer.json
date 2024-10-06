@@ -2,7 +2,7 @@
     "data": [
         {
             "id": "QUST67",
-            "question": "గిబియోను అనగా అర్ధము ఏమిటి?",
+            "question": "<h2> గిబియోను అనగా అర్ధము ఏమిటి? </h2>",
             "answer": "మెచ్చదగిన",
             "type": {
                 "name": "QUESTION_AND_ANSWER",
