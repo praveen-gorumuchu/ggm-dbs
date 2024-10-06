@@ -2,8 +2,8 @@
     "data": [
         {
             "id": "QUST67",
-            "question": "<h2>బైబిల్లోని పాత నిబంధనలో చివరి పుస్తకం ఏది ? </h2>",
-            "answer": "మాలాకి",
+            "question": "గిబియోను అనగా అర్ధము ఏమిటి?",
+            "answer": "మెచ్చదగిన",
             "type": {
                 "name": "QUESTION_AND_ANSWER",
                 "value": "Question and Answer",
